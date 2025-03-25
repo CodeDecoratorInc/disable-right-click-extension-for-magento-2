@@ -1,0 +1,1 @@
+# disable-right-click-extension-for-magento-2
